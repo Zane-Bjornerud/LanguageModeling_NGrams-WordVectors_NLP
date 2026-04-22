@@ -1,0 +1,10 @@
+the jury said | 0.5384615384615384
+<s> the jury | 0.2222222222222222
+the fulton county | 0.5
+jury said it | 0.375
+to make the | 1.0
+is expected to | 1.0
+million worth of | 1.0
+at the polls | 0.5
+that the city | 0.4
+the election was | 0.3333333333333333
